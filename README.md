@@ -6,7 +6,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=26ansh)
 
-[![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh)]
+![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh)
 
 
 
