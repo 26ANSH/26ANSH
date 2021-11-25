@@ -1,26 +1,25 @@
 ### Hi there 👋
 
-### Ansh here 👨‍💻
+### Ansh here 👨‍💻😉
 
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=26ansh&show_icons=true&theme=dark&include_all_commits=true)
+
+☞ Beta - #MicrosoftLearnStudentAmbassador
+
+☞ Google Cloud Facillitator
+
+✨ some info about me ✨
+
+- 🔭 I’m currently working on a Project called *Pathshaala* Which is a Smart LMS with the capabilities of a VLE.
+- 🌱 I’m currently learning Django and Tailwind, Suprisingly I am Loving Tailwind and Django
+- 👨‍💻 I also love coding C++, I usually practice on Codechef, Hackerrank, Codeforces.
+- ☁️ Worked on Azure, GCP, AWS, IBM also currently learning Docker, kubernetes
+- 👯 I’m looking to collaborate and Create something amazing
+- 💬 Ask me about myself, music, politics
+- 🕊 ![Ansh | Twitter](https://twitter.com/Vidyabhanuansh)
+- 🤖 ![Ansh | LinkedIn](https://www.linkedin.com/in/26ansh)
+
 
 ![Views](https://komarev.com/ghpvc/?username=26ansh)
 
 ![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh)
-
-
-
-<!--
-**26ANSH/26ANSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
