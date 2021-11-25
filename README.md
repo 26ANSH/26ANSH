@@ -16,8 +16,8 @@
 - ☁️ Worked on Azure, GCP, AWS, IBM also currently learning Docker, kubernetes
 - 👯 I’m looking to collaborate and Create something amazing
 - 💬 Ask me about myself, music, politics
-- 🕊 ![Ansh | Twitter](https://twitter.com/Vidyabhanuansh)
-- 🤖 ![Ansh | LinkedIn](https://www.linkedin.com/in/26ansh)
+- 🕊 [Ansh | Twitter](https://twitter.com/Vidyabhanuansh)
+- 🤖 [Ansh | LinkedIn](https://www.linkedin.com/in/26ansh)
 
 
 ![Views](https://komarev.com/ghpvc/?username=26ansh)
