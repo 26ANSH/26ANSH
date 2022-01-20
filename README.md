@@ -21,5 +21,14 @@
 
 
 ![Views](https://komarev.com/ghpvc/?username=26ansh)
+<div align="center">
+  <h1> GitHub Streak 🔥 </h1>
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajsingh2001) 
 
+  <hr>
+  
 ![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh)
+
+</div>
+
