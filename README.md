@@ -24,7 +24,7 @@
 <div align="center">
   <h1> GitHub Streak 🔥 </h1>
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajsingh2001) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=26ANSH) 
 
   <hr>
   
