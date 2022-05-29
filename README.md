@@ -2,8 +2,10 @@
 
 ### Ansh here 👨‍💻😉
 
-![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=tokyonight)
+<div style="display: flex; justify-content: space-evenly;">
+![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=dark)
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=26ansh&show_icons=true&theme=dark&include_all_commits=true)
+</div>
 
 ☞ Beta - #MicrosoftLearnStudentAmbassador
 
@@ -22,15 +24,11 @@
 
 
 ![Views](https://komarev.com/ghpvc/?username=26ansh)
+
 <div align="center">
-  <h1> GitHub Streak 🔥 </h1>
+<h1> GitHub Streak 🔥 </h1>
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=26ANSH) 
-![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=tokyonight)
-
- <hr>
-  
-![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=tokyonight)
 
 </div>
 
