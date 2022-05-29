@@ -2,6 +2,7 @@
 
 ### Ansh here 👨‍💻😉
 
+![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=tokyonight)
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=26ansh&show_icons=true&theme=dark&include_all_commits=true)
 
 ☞ Beta - #MicrosoftLearnStudentAmbassador
@@ -25,10 +26,11 @@
   <h1> GitHub Streak 🔥 </h1>
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=26ANSH) 
+![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=tokyonight)
 
-  <hr>
+ <hr>
   
-![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh)
+![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=tokyonight)
 
 </div>
 
