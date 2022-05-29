@@ -2,11 +2,13 @@
 
 ### Ansh here 👨‍💻😉
 
+<div align="center">
+<h1> GitHub Stats 🔥 </h1>
   
 ![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=dark)
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=26ansh&show_icons=true&theme=dark&include_all_commits=true)
-  
 
+</div>
 
 ☞ Beta - #MicrosoftLearnStudentAmbassador
 
