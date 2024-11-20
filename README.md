@@ -1,37 +1,37 @@
-### Hi there 👋
+# 👋 Welcome to My GitHub!  
 
-### Ansh here 👨‍💻😉
+Hi, I’m **Ansh Vidyabhanu** – a passionate **Software Development Engineer** who loves crafting scalable solutions and solving complex problems.  
+I believe technology is more than a tool—it's a canvas for innovation and creativity. Driven by curiosity and an insatiable appetite for learning, I constantly seek ways to create meaningful impact through code. 🚀  
 
-<div align="center">
-<h1> GitHub Stats 🔥 </h1>
-  
-![Languages I worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=26ansh&hide=html&theme=dark)
-![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=26ansh&show_icons=true&theme=dark&include_all_commits=true)
+---
 
-</div>
+### 🌟 My Core Expertise  
+💻 **Programming Languages:** Python, SQL, C++, JavaScript  
+☁️ **Cloud Technologies:** AWS, Azure, BigQuery  
+🔗 **System Design:** Distributed systems, Serverless architectures, Microservices  
+📊 **Data Engineering:** ETL pipelines, FinOps solutions, Real-time data processing  
+⚙️ **DevOps Tools:** Docker, Kubernetes, Jenkins, CI/CD pipelines  
+📚 **Frameworks & Libraries:** FastAPI, Flask, Django  
 
-☞ Beta - #MicrosoftLearnStudentAmbassador
+---
 
-☞ Google Cloud Facillitator
+### 🌱 What Drives Me  
+🌟 **Innovation:** Turning ideas into scalable, real-world solutions.  
+🌟 **Learning:** Exploring the latest trends in tech and implementing them.  
+🌟 **Excellence:** Striving for quality and performance in every line of code.  
 
-✨ some info about me ✨
+---
 
-- 🔭 I’m currently working on a Project called *Pathshaala* Which is a Smart LMS with the capabilities of a VLE.
-- 🌱 I’m currently learning Django and Tailwind, Suprisingly I am Loving Tailwind and Django
-- 👨‍💻 I also love coding C++, I usually practice on Codechef, Hackerrank, Codeforces.
-- ☁️ Worked on Azure, GCP, AWS, IBM also currently learning Docker, kubernetes
-- 👯 I’m looking to collaborate and Create something amazing
-- 💬 Ask me about myself, music, politics
-- 🕊 [Ansh | Twitter](https://twitter.com/Vidyabhanuansh)
-- 🤖 [Ansh | LinkedIn](https://www.linkedin.com/in/26ansh)
+### 📈 GitHub Stats  
+![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=26ANSH&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26ANSH&layout=compact&theme=radical)  
 
+---
 
-![Views](https://komarev.com/ghpvc/?username=26ansh)
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyabhanuansh)  
+📧 **Email:** [work.anshvidyabhanu@gmail.com](mailto:work.anshvidyabhanu@gmail.com)  
 
-<div align="center">
-<h1> GitHub Streak 🔥 </h1>
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=26ANSH) 
+---
 
-</div>
-
+Let’s create something extraordinary together! Dive into my repositories, and don’t hesitate to reach out for collaborations or ideas. 🌟  
