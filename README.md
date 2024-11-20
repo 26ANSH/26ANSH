@@ -23,8 +23,7 @@ I believe technology is more than a tool—it's a canvas for innovation and crea
 ---
 
 ### 📈 GitHub Stats  
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=26ANSH&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26ANSH&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26ANSH&layout=compact&theme=radical&hide=html)  
 
 ---
 
