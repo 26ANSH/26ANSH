@@ -1,8 +1,9 @@
 # 👋 Welcome to My GitHub!  
 
-Hi, I’m **Ansh Vidyabhanu** – a passionate **Software Development Engineer** who loves crafting scalable solutions and solving complex problems.  
-I believe technology is more than a tool—it's a canvas for innovation and creativity. Driven by curiosity and an insatiable appetite for learning, I constantly seek ways to create meaningful impact through code. 🚀  
-
+Hi, I’m **Ansh Vidyabhanu**
+- I believe in Curiosity Driven Engineering
+- **Software Development Engineer II @ Apptio**
+- 2.5+ Years of Experience
 ---
 
 ### 🌟 My Core Expertise  
